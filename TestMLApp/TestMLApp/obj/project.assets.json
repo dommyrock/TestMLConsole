@@ -3927,11 +3927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Combis\\C#\\TestMLApp\\TestMLApp\\TestMLApp.csproj",
+      "projectUniqueName": "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLApp\\TestMLApp.csproj",
       "projectName": "TestMLApp",
-      "projectPath": "D:\\Combis\\C#\\TestMLApp\\TestMLApp\\TestMLApp.csproj",
+      "projectPath": "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLApp\\TestMLApp.csproj",
       "packagesPath": "C:\\Users\\dpolzer\\.nuget\\packages\\",
-      "outputPath": "D:\\Combis\\C#\\TestMLApp\\TestMLApp\\obj\\",
+      "outputPath": "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3950,8 +3950,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Combis\\C#\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj": {
-              "projectPath": "D:\\Combis\\C#\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj"
+            "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj": {
+              "projectPath": "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj"
             }
           }
         }

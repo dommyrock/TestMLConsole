@@ -134,6 +134,14 @@ namespace TestMLApp
                 {
                     SentimentText = "Matej is young but not that good looking."
                 },
+                new SentimentData
+                {
+                    SentimentText = "Good, bad."
+                },
+                new SentimentData
+                {
+                    SentimentText = "Bad, good."
+                },
             };
             IDataView batchComments = mlContext.Data.LoadFromEnumerable(sentiments);
 

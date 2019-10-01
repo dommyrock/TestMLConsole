@@ -3557,11 +3557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Combis\\C#\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj",
+      "projectUniqueName": "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj",
       "projectName": "TestMLAppML.Model",
-      "projectPath": "D:\\Combis\\C#\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj",
+      "projectPath": "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLAppML.Model\\TestMLAppML.Model.csproj",
       "packagesPath": "C:\\Users\\dpolzer\\.nuget\\packages\\",
-      "outputPath": "D:\\Combis\\C#\\TestMLApp\\TestMLAppML.Model\\obj\\",
+      "outputPath": "D:\\GithubRepo\\TestMLConsole\\TestMLApp\\TestMLAppML.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
