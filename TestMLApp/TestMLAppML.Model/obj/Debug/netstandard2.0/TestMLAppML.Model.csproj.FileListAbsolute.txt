@@ -1,0 +1,10 @@
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0\TestMLAppML.Model.deps.json
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0\TestMLAppML.Model.dll
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0\TestMLAppML.Model.pdb
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.csprojAssemblyReference.cache
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.csproj.CoreCompileInputs.cache
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.AssemblyInfoInputs.cache
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.AssemblyInfo.cs
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.dll
+D:\Combis\C#\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.pdb

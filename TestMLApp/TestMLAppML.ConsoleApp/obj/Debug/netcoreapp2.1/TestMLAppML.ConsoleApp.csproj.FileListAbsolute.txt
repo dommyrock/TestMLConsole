@@ -1,0 +1,14 @@
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.deps.json
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.runtimeconfig.json
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.runtimeconfig.dev.json
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.dll
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.pdb
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLAppML.Model.dll
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLAppML.Model.pdb
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.AssemblyInfoInputs.cache
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.AssemblyInfo.cs
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.csproj.CopyComplete
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.dll
+D:\Combis\C#\TestMLApp\TestMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLAppML.ConsoleApp.pdb

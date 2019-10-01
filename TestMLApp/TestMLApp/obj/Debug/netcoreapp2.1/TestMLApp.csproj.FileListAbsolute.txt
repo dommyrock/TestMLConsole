@@ -1,0 +1,16 @@
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\TestMLApp.deps.json
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\TestMLApp.runtimeconfig.json
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\TestMLApp.runtimeconfig.dev.json
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\TestMLApp.dll
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\TestMLApp.pdb
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\TestMLAppML.Model.dll
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\TestMLAppML.Model.pdb
+D:\Combis\C#\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.csprojAssemblyReference.cache
+D:\Combis\C#\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.csproj.CoreCompileInputs.cache
+D:\Combis\C#\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.AssemblyInfoInputs.cache
+D:\Combis\C#\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.AssemblyInfo.cs
+D:\Combis\C#\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.csproj.CopyComplete
+D:\Combis\C#\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.dll
+D:\Combis\C#\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.pdb
+D:\Combis\C#\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\Data\yelp_labelled.txt
