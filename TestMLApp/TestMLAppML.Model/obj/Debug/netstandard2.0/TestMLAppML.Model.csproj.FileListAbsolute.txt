@@ -12,9 +12,9 @@ D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0\TestMLAppML.Model.deps.json
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0\TestMLAppML.Model.dll
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\bin\Debug\netstandard2.0\TestMLAppML.Model.pdb
-D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.csprojAssemblyReference.cache
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.csproj.CoreCompileInputs.cache
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.AssemblyInfoInputs.cache
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.AssemblyInfo.cs
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.dll
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.pdb
+D:\GithubRepo\TestMLConsole\TestMLApp\TestMLAppML.Model\obj\Debug\netstandard2.0\TestMLAppML.Model.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\TaxiFareTrain.deps.json
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\TaxiFareTrain.runtimeconfig.json
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\TaxiFareTrain.runtimeconfig.dev.json
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\TaxiFareTrain.dll
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.csproj.CoreCompileInputs.cache
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.AssemblyInfoInputs.cache
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.AssemblyInfo.cs
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\TaxiFareTrain.pdb
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.dll
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.pdb
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\Data\taxi-fare-test.csv
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\Data\taxi-fare-train.csv
+D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.csprojAssemblyReference.cache

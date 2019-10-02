@@ -30,3 +30,6 @@ D:\GithubRepo\TestMLConsole\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLAp
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.csproj.CopyComplete
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.dll
 D:\GithubRepo\TestMLConsole\TestMLApp\TestMLApp\obj\Debug\netcoreapp2.1\TestMLApp.pdb
+D:\GithubRepo\TestMLConsole\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\Data\issues_test.tsv
+D:\GithubRepo\TestMLConsole\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\Data\issues_train.tsv
+D:\GithubRepo\TestMLConsole\TestMLApp\TestMLApp\bin\Debug\netcoreapp2.1\Models\model.zip
