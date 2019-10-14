@@ -10,4 +10,3 @@ D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\Tax
 D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.pdb
 D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\Data\taxi-fare-test.csv
 D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\bin\Debug\netcoreapp2.1\Data\taxi-fare-train.csv
-D:\GithubRepo\TestMLConsole\TestMLApp\TaxiFlareTrain\obj\Debug\netcoreapp2.1\TaxiFareTrain.csprojAssemblyReference.cache

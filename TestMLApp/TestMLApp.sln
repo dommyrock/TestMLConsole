@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestMLAppML.ConsoleApp", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiFareTrain", "TaxiFlareTrain\TaxiFareTrain.csproj", "{9A0D363E-BB99-4D8B-B0F9-492F1C287FF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisFlowers", "IrisFlowers\IrisFlowers.csproj", "{87AA6E2F-9E65-4308-8BB7-14D87305B4B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9A0D363E-BB99-4D8B-B0F9-492F1C287FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A0D363E-BB99-4D8B-B0F9-492F1C287FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A0D363E-BB99-4D8B-B0F9-492F1C287FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AA6E2F-9E65-4308-8BB7-14D87305B4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AA6E2F-9E65-4308-8BB7-14D87305B4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AA6E2F-9E65-4308-8BB7-14D87305B4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AA6E2F-9E65-4308-8BB7-14D87305B4B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\bin\Debug\netcoreapp2.1\IrisFlowers.deps.json
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\bin\Debug\netcoreapp2.1\IrisFlowers.runtimeconfig.json
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\bin\Debug\netcoreapp2.1\IrisFlowers.runtimeconfig.dev.json
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\bin\Debug\netcoreapp2.1\IrisFlowers.dll
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\obj\Debug\netcoreapp2.1\IrisFlowers.csprojAssemblyReference.cache
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\obj\Debug\netcoreapp2.1\IrisFlowers.csproj.CoreCompileInputs.cache
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\obj\Debug\netcoreapp2.1\IrisFlowers.AssemblyInfoInputs.cache
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\obj\Debug\netcoreapp2.1\IrisFlowers.AssemblyInfo.cs
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\bin\Debug\netcoreapp2.1\IrisFlowers.pdb
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\obj\Debug\netcoreapp2.1\IrisFlowers.dll
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\obj\Debug\netcoreapp2.1\IrisFlowers.pdb
+D:\GithubRepo\TestMLConsole\TestMLApp\IrisFlowers\bin\Debug\netcoreapp2.1\Data\IrisClusteringModel.zip
